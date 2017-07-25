@@ -1,8 +1,10 @@
 html.index
 <!DOCTYPE html>
 <html>
-<body>
-<h1>UX Portfolio</h1>
-<p>My name is clayton and this is my working portfolio!</p>
-</body>
+    <title>Clayton's UX Portfolio</title>
+    <body>
+        <h1>Current Projects</h1>
+    </body>
 </html>
+            <!-- Refer to this site if you have any questions or issues with the domain connecting to the github servers #href= https://medium.com/@kswanie21/how-to-set-up-godaddy-domain-with-github-pages-a9300366c7b --!>
+                <p>My name is clayton and this is my working portfolio!</p>
